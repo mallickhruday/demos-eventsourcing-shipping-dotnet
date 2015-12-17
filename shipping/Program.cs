@@ -9,7 +9,8 @@ namespace helloeventsourcingshipping
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+			Console.WriteLine ("Event sourcing demo. See http://martinfowler.com/eaaDev/EventSourcing.html");
+			Console.WriteLine ("Usage: Set breakpoints, run the tests, step through the code.");
 		}
 	}
 }
